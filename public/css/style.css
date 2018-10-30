@@ -1,0 +1,27 @@
+footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+.jumbotron-fluid {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/A_Game_Of_Thrones_board_game_detail.jpg/1200px-A_Game_Of_Thrones_board_game_detail.jpg") no-repeat center center;
+    color: white;
+    text-align: center;
+}
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+body {
+    font-size: small;
+}

@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "App\\": "App/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "nesbot/carbon": "^2.5"
+  }
+}
