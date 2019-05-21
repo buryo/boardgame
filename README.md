@@ -12,4 +12,4 @@ Als rapportage moet je denken aan hoe vaak is een spel gespeeld.
 Wie heeft het vaakst een spel gewonnen, hoe vaak heeft iemand een spel gewonnen. Etc..
 
 ## Gebruikte technieken
-Eigen gebouwde MVC Framework in PHP, SASS, Bootstrap, MySQL, 
+Eigen gebouwde MVC Framework in PHP, Bootstrap en MySQL
